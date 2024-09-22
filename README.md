@@ -15,7 +15,7 @@ Welcome to the **Alert System Web Design Project**! This repository houses a sim
 To view the website, simply clone this repository and open `index.html` in your browser.
 
 ```bash
-git clone https://github.com/yourusername/alert-system-web-design.git
+git clone https://github.com/HorikitaSuzuneTsundere/Alert-System-Web-Design.git
 ```
 
 ## Technologies Used
