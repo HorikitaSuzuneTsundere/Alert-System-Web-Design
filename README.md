@@ -1,5 +1,7 @@
 # Alert System Web Design Project
 
+![My Image](WEBservice.png)
+
 Welcome to the **Alert System Web Design Project**! This repository houses a simple yet engaging promotional website designed to showcase our innovative emergency alert system.
 
 ## Features
